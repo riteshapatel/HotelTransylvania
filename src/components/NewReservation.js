@@ -47,7 +47,6 @@ class NewReservation extends Component {
             >
                 {(createReservation, { client, data }) => (
                     <View>
-                        
                         <Text style={styles.form_header}>{'\n'}New Coffin: {hotelName}</Text>
                         <Form ref={c => this._form = c} type={Reservation} value={value} options={options}/>
                         <Button type="Submit" title="Submit" onPress={(navigate) => {
@@ -68,7 +67,6 @@ class NewReservation extends Component {
                             } else {
                                 AlertIOS.alert('Invalid values');
                             }
-
                         }} />                
                     </View>                    
                 )}
