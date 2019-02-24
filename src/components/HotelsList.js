@@ -1,5 +1,5 @@
 /**
- * @class HomesList component 
+ * @class HotelsList component 
  * @author ritesh.patel
  * App landing screen
  */
