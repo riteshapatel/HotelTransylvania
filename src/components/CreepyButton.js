@@ -2,8 +2,8 @@
  * @class CreepyButton component 
  * @author ritesh.patel
  */
-import React, {Component} from 'react';
-import {Text, Button, TouchableOpacity} from 'react-native';
+import React, { Component } from 'react';
+import { Text, Button, TouchableOpacity } from 'react-native';
 import styles from '../styles/Global.style.js';
 
 export default class CreepyButton extends Component {

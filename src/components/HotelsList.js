@@ -3,13 +3,13 @@
  * @author ritesh.patel
  * App landing screen
  */
-import React, {Component} from 'react';
-import {Text, View, Image, FlatList} from 'react-native';
+import React, { Component } from 'react';
+import { Text, View, Image, FlatList } from 'react-native';
 import CreepyButton from './CreepyButton';
 import Reservations from '../graphql/queries/Reservations.js';
 import LastReservation from '../graphql/queries/LastReservation';
 import CreepyItem from './CreepyItem';
-import {Query, graphql, ApolloConsumer} from 'react-apollo';
+import { Query, graphql, ApolloConsumer } from 'react-apollo';
 import styles from '../styles/Global.style.js';
 import gql from 'graphql-tag';
 

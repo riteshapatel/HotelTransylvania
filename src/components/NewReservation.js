@@ -3,8 +3,8 @@
  * @author ritesh.patel
  * New reservation form
  */
-import React, {Component} from 'react';
-import {Text, View, Button, AlertIOS, Image} from 'react-native';
+import React, { Component } from 'react';
+import { Text, View, Button, AlertIOS, Image } from 'react-native';
 import CreateReservation from '../graphql/mutations/CreateReservation';
 import styles from '../styles/Global.style.js';
 import t from 'tcomb-form-native';

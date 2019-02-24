@@ -3,10 +3,10 @@
  * @author ritesh.patel
  * App landing screen
  */
-import React, {Component} from 'react';
-import {Text, View, Image} from 'react-native';
+import React, { Component } from 'react';
+import { Text, View, Image } from 'react-native';
 import Reservation from '../graphql/queries/Reservation.js';
-import {Query, graphql} from 'react-apollo';
+import { Query, graphql } from 'react-apollo';
 import styles from '../styles/Global.style.js';
 
 class ViewReservation extends Component {

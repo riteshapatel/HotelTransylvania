@@ -4,7 +4,7 @@
  * App landing screen
  */
 import React, {Component} from 'react';
-import {Text, View, Image} from 'react-native';
+import { Text, View, Image } from 'react-native';
 import styles from '../styles/Global.style.js';
 import CreepyButton from './CreepyButton'
 const logo = require('../assets/logo.png');
@@ -18,6 +18,7 @@ class Home extends Component {
     /** render component */
     render () {
         const {navigate} = this.props.navigation;
+        
         return (
             <View style={styles.container}>
                 <Image source={logo} />

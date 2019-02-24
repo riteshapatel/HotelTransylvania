@@ -2,14 +2,15 @@
  * @class CreepyItem component 
  * @author ritesh.patel
  */
-import React, {Component} from 'react';
-import {Text, View, Image} from 'react-native';
+import React, { Component } from 'react';
+import { Text, View, Image } from 'react-native';
 import styles from '../styles/Global.style.js';
 import CreepyButton from './CreepyButton';
 
 export default class CreepyItem extends Component {
     render () {        
-        const data = this.props.data || {};    
+        const data = this.props.data || {};   
+         
         return (
             <View style={styles.creepy_item}>
                 <Image source={require('../assets/mummy_small.png')} />
