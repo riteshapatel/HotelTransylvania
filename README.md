@@ -22,6 +22,8 @@ Ah! With your eyes closed you said `Redux`, right? Well sorry to disappoint you 
 
 `Jest` at rescue. I have all components passing `jest test`, but running into some issues with `Reservation query` as well as testing the `App.js`. Would love to fix it, but running out of options / time. It's weird, I have exact same setup for `Reservations query` which doesn't throw any warnings. I'd love to hear if anyone has ideas on what could be wrong. 
 
+![Test Results](screenshots/results.png "Test Results")
+
 Rest seems to be ok. 
 
 **Data**
