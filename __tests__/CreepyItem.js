@@ -1,5 +1,5 @@
 /**
- * Unit test for CreepyItem component 
+ * Unit test for CreepyItem component  (Snapshot Comparison)
  * @author ritesh.patel
  */
 import React from 'react';

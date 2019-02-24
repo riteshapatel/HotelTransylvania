@@ -1,5 +1,5 @@
 /**
- * Unit test for Home component 
+ * Unit test for Home component (Snapshot Comparison)
  * @author ritesh.patel
  */
 import React from 'react';

@@ -1,5 +1,5 @@
 /**
- * Unit test for NewReservation component 
+ * Unit test for NewReservation component (Snapshot Comparison)
  * @author ritesh.patel
  */
 import React from 'react';

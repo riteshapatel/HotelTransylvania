@@ -1,5 +1,5 @@
 /**
- * Unit test for CreepyButton component 
+ * Unit test for CreepyButton component (Snapshot Comparison)
  * @author ritesh.patel
  */
 import React from 'react';

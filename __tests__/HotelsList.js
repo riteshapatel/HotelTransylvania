@@ -1,5 +1,5 @@
 /**
- * Unit test for HotelsList component 
+ * Unit test for HotelsList component (Snapshot Comparison)
  * @author ritesh.patel
  */
 import React from 'react';
@@ -11,6 +11,8 @@ import HotelsList from '../src/components/HotelsList';
 
 test ('snapshot HotelsList component', () => {
     const navigation = { navigate: jest.fn() }
+
+    // request / result for mock provider
     const mocks = [
         {
             request: {
@@ -46,6 +48,9 @@ test ('snapshot HotelsList component', () => {
             }
         }
     ]
+    // render component to JSON
     const tree = renderer.create(<MockedProvider mocks={mocks}><HotelsList navigation={navigation} /></MockedProvider>).toJSON();
+
+    // compare shanpshots
     expect(tree).toMatchSnapshot();
 });``

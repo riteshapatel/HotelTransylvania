@@ -1,5 +1,5 @@
 /**
- * Unit test for ViewReservation component 
+ * Unit test for ViewReservation component (Snapshot Comparison)
  * @author ritesh.patel
  */
 import React from 'react';
