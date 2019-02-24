@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot CreepyButton component 1`] = `
+<View
+  accessible={true}
+  isTVSelectable={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#640544",
+      "borderColor": "#404040",
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "marginBottom": 5,
+      "opacity": 1,
+      "padding": 5,
+      "textAlign": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontSize": 14,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    title
+  </Text>
+</View>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot HotelsList component 1`] = `
+<View>
+  <Text>
+    Loading...
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontSize": 12,
+        "fontStyle": "italic",
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    undefined @ undefined
+  </Text>
+</View>
+`;

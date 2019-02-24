@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot ViewReservation component 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#C800CB",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontFamily": "Baskerville",
+        "fontSize": 24,
+        "fontStyle": "italic",
+      }
+    }
+  >
+    Are these monsters gonna kill me?
+    
+
+  </Text>
+  <View>
+    <Text>
+      Loading...
+    </Text>
+  </View>
+</View>
+`;

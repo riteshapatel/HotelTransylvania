@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot CreepyItem component 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F3D9EA",
+      "borderColor": "#CCC",
+      "borderWidth": 1,
+      "color": "white",
+      "flexDirection": "row",
+      "fontSize": 14,
+      "fontWeight": "bold",
+      "justifyContent": "space-between",
+      "margin": 2,
+      "padding": 10,
+      "textAlign": "left",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../src/assets/mummy_small.png",
+      }
+    }
+  />
+  <View>
+    <Text
+      style={
+        Object {
+          "color": "#650444",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      undefined
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 10,
+          "fontStyle": "italic",
+        }
+      }
+    >
+      
+Name: undefined
+
+      From: undefined
+
+      To: undefined
+
+    </Text>
+  </View>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#640544",
+          "borderColor": "#404040",
+          "borderRadius": 4,
+          "borderWidth": 1,
+          "marginBottom": 5,
+          "opacity": 1,
+          "padding": 5,
+          "textAlign": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "textAlign": "center",
+          }
+        }
+      >
+        Reserve Coffin
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#640544",
+          "borderColor": "#404040",
+          "borderRadius": 4,
+          "borderWidth": 1,
+          "marginBottom": 5,
+          "opacity": 1,
+          "padding": 5,
+          "textAlign": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "textAlign": "center",
+          }
+        }
+      >
+        View Coffin
+      </Text>
+    </View>
+  </View>
+</View>
+`;
