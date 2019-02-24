@@ -92,7 +92,9 @@ mutation {
 
 ![Add Coffin](screenshots/add.png "Add Coffin")
 
+
 *View Coffin*
+
 ![View Coffin](screenshots/view.png "View Coffin")
 
 *Missing Nails*
