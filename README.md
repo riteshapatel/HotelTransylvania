@@ -11,6 +11,7 @@ Yes, it was immensely joyful to build this small React Native App. I absolutely 
 2) GraphQL
 3) Apollo-Client
 
+
 **State Management**
 
 Ah! With your eyes closed you said `Redux`, right? Well sorry to disappoint you `young padawan`...I am using `Apollo Client's local statemanagement instead`. Cool stuff! Redux is great as well. And so is Vuex! Are `Redux and Vuex` twins? May be...
@@ -76,9 +77,7 @@ mutation {
 }
 ```
 
-
-
-**App Snapshots**
+**App Screenshots**
 
 *Landing Screen*
 
