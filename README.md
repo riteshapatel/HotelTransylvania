@@ -99,9 +99,9 @@ mutation {
 
 *Missing Nails*
 
-![Nail 1](screenshots/invalid_values.jpg "Nail 1")
+![Nail 1](screenshots/invalid_values.png "Nail 1")
 
-![Nail 2](screenshots/invalid_dates.jpg "Nail 2")
+![Nail 2](screenshots/invalid_dates.png "Nail 2")
 
 
 **Questions / Comments**
