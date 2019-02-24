@@ -16,7 +16,7 @@ Yes, it was immensely joyful to build this small React Native App. I absolutely 
 
 **State Management**
 
-Ah! With your eyes closed you said `Redux`, right? Well sorry to disappoint you `young padawan`...I am using `Apollo Client's local statemanagement instead`. Cool stuff! Redux is great as well. And so is Vuex! Are `Redux and Vuex` twins? May be...
+Ah! With your eyes closed you said `Redux`, right? Well sorry to disappoint you `young padawan`...I am using `Apollo client's local state management instead`. Cool stuff! Redux is great as well. And so is Vuex! Are `Redux and Vuex` twins? May be...
 
 **Unit Testing**
 
@@ -28,7 +28,7 @@ Rest seems to be ok.
 
 **Data**
 
-`graphql backend` I used is public and seem to be quite polluted with inconsistent data. Therefore, I have added `filter` to my query and am pulling only data that belongs to me: `Ritesh`.
+`graphql backend` I have used is public and seem to be quite polluted with inconsistent data. Therefore, I have added `filter` to my query and am pulling only data that belongs to me: `Ritesh`.
 
 **Local State Management**
 
