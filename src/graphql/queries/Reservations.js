@@ -1,7 +1,6 @@
 /**
  * reservations query
  * @author ritesh.patel
- * App landing screen
  */
 import gql from 'graphql-tag';
 
